@@ -1,0 +1,6 @@
+Steps:
+1. Run the 'server.py' file on one terminal.
+2. After running server.py file, run 'client.py' file on another terminal.
+3. Now send your first message from client terminal, then the reply from server terminal.
+4. You can keep on sending and recieving message from both the end.
+5. Try it out :)
